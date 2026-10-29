@@ -12,7 +12,7 @@ from aiogram.types import (BotCommand, CallbackQuery, InlineKeyboardButton,
                            InlineKeyboardMarkup, Message)
 
 # ================= НАЛАШТУВАННЯ =================
-TOKEN = "8222950520:AAEaq44aO9J8oO7xs-vqKKF_N6CWGUEhG0M"
+TOKEN = "8222950520:AAEvmwWLUocqaOmmqSB6Nxv96leEqpjwf4g"
 
 PRESETS = [
     ("Головна (важко: Yoast + БД)",    "https://214.school/?nc={r}"),
